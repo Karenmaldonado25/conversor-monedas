@@ -30,12 +30,12 @@ Permite convertir diferentes monedas utilizando tasas de cambio en tiempo real o
 
 ## 🌎 Monedas disponibles
 
-- USD → ARS
-- ARS → USD
-- USD → BRL
-- BRL → USD
-- USD → COP
-- COP → USD
+1. USD → ARS  
+2. ARS → USD  
+3. USD → BRL  
+4. BRL → USD  
+5. USD → COP  
+6. COP → USD  
 
 ---
 
